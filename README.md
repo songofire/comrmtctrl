@@ -1,4 +1,4 @@
-# comrmtctrl
+# comrmtctrl 开机棒
 simple device on remote controling computer  power and checking its state with esp chip and eletric relay
 # 比某宝的优势
 - mqtt通讯和socket通讯,接入HomeAssistant
